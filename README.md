@@ -1,9 +1,6 @@
-# cybersecurity-guide
+# 👋 Salam, mən Hacıağa Sadıxov!
 
-
-## 👋 Salam, mən Hacıağa Sadıxov!
-
-Mən 17 yaşında, kibertəhlükəsizlik sahəsinə böyük maraq göstərirəm. Hal-hazırda IT sahəsində təcrübəçi kimi çalışıram və Linux sistemləri üzrə qabaqcıl biliklərə malikəm. OWASP Top 10 kimi mövzulara fokuslanaraq daim öz üzərimdə işləyirəm. Hədəfim, gələcəkdə Lead Security Architect olmaq və  böyük layihələrə imza atmaqdır.
+Mən 17 yaşında, kibertəhlükəsizlik sahəsinə böyük maraq göstərirəm. Hal-hazırda IT sahəsində təcrübəçi kimi çalışıram və Linux sistemləri üzrə qabaqcıl biliklərə malikəm. OWASP Top 10 kimi mövzulara fokuslanaraq daim öz üzərimdə işləyirəm. Hədəfim, gələcəkdə Security Architect olmaq və  böyük layihələrə imza atmaqdır.
 
 Bu repozitoriyanı həm öyrəndiklərimi möhkəmləndirmək, həm də mənim kimi kibertəhlükəsizlik sahəsində yeni başlayanlara dəstək olmaq məqsədilə yaratmışam. Əgər sən də bu yolda irəliləyirsənsə, ümid edirəm ki, buradakı məlumatlar sənə faydalı olacaq.
 
@@ -15,9 +12,9 @@ Bu repo, [LuNiZz/siber-guvenlik-sss](https://github.com/LuNiZz/siber-guvenlik-ss
 
 ##  Tez-Tez Verilən Suallar və Resurslar
 
-Aşağıda sınıflandırdığımız linklərin hər birində dolu-dolu resurslar var. Bir gözdən keçir istəsən, nə deyirsən? 😉
+Aşağıda sinifləndirdiyim linklərin hər birində dolu-dolu resurslar var. Bir gözdən keçir istəsən, nə deyirsən? 😉
 
-** "Tez-tez verilən suallar"** bölməsi, kiber təhlükəsizlik sahəsində ən çox yönəldilən sualları və cavabları əhatə edir.
+[Tez-tez verilən suallar](/documents/Tez-TezVerilənSuallar.md#top) bölməsi, kiber təhlükəsizlik sahəsində ən çox yönəldilən sualları və cavabları əhatə edir.
 
 ---
 
@@ -26,16 +23,11 @@ Aşağıda sınıflandırdığımız linklərin hər birində dolu-dolu resursla
 > **“İngilis dilini kifayət qədər yaxşı bilirəm ?”**
 
 Bəli, bu resurslar sənə müəyyən qədər kömək edə bilər, amma **İngilis dili olmadan olmaz**...
-
----
-
-##  Qızıl Qayda
-
->  **İngilis dili öyrən...**  
-> Bu sahədə yüksəlmək istəyirsənsə, bu addım qaçılmazdır.
-
+##  Qızıl Qayda:
+>  **İngilis dili öyrən...** Bu sahədə yüksəlmək istəyirsənsə, bu addım qaçılmazdır.
 ---
 
 
 <a name="index"></a>
 <h1 align="center">Table of Contents:</h1>
+* [<img width="18" src="https://i.ibb.co/vwSm056/soru-cevap.png" alt="Sual-Cavab" border="0"> Tez-Tez Verilən Suallar](/documents/Tez-TezVerilənSuallar.md#top) <<< BURADAN BAŞLA DOSTUM
