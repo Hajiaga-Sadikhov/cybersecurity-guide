@@ -11,4 +11,31 @@ Bu repozitoriyanı həm öyrəndiklərimi möhkəmləndirmək, həm də mənim k
 
 Mənimlə əlaqə: [LinkedIn profilim](https://www.linkedin.com/in/hajiaga-sadikhov/)
 
-Bu repo, [LuNiZz/siber-guvenlik-sss](https://github.com/LuNiZz/siber-guvenlik-sss) reposundan ilham almışdır. İlham və mükəmməl işləri üçün böyük təşəkkürlər!
+Bu repo, [LuNiZz/siber-guvenlik-sss](https://github.com/LuNiZz/siber-guvenlik-sss) reposundan ilham almışdır. İlham və mükəmməl işləri üçün dərin təşəkkürlər!
+
+##  Tez-Tez Verilən Suallar və Resurslar
+
+Aşağıda sınıflandırdığımız linklərin hər birində dolu-dolu resurslar var. Bir gözdən keçir istəsən, nə deyirsən? 😉
+
+** "Tez-tez verilən suallar"** bölməsi, kiber təhlükəsizlik sahəsində ən çox yönəldilən sualları və cavabları əhatə edir.
+
+---
+
+##  Başlamadan Əvvəl Bir Sual Ver Özünə:
+
+> **“İngilis dilini kifayət qədər yaxşı bilirəm ?”**
+
+Bəli, bu resurslar sənə müəyyən qədər kömək edə bilər, amma **İngilis dili olmadan olmaz**...
+
+---
+
+##  Qızıl Qayda
+
+>  **İngilis dili öyrən...**  
+> Bu sahədə yüksəlmək istəyirsənsə, bu addım qaçılmazdır.
+
+---
+
+
+<a name="index"></a>
+<h1 align="center">Table of Contents:</h1>
