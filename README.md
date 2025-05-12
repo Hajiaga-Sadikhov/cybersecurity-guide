@@ -22,11 +22,9 @@ Aşağıda sinifləndirdiyim linklərin hər birində dolu-dolu resurslar var. B
 
 **“İngilis dilini kifayət qədər yaxşı bilirəm ?”**
 
-Bəli, bu resurslar sənə müəyyən qədər kömək edə bilər, amma **İngilis dili olmadan olmaz**...
-##  Qızıl Qayda: **İngilis dili öyrən...** Bu sahədə yüksəlmək istəyirsənsə, bu addım qaçılmazdır.
----
-
+Bəli, bu resurslar sənə müəyyən qədər kömək edə bilər, amma **İngilis dili olmadan olmaz**... Bu sahədə yüksəlmək istəyirsənsə, bu addım qaçılmazdır.
 
 <a name="index"></a>
 <h1 align="center">Table of Contents:</h1>
-* [<img width="18" src="https://i.ibb.co/vwSm056/soru-cevap.png" alt="Sual-Cavab" border="0">][Tez-Tez Verilən Suallar](/documents/Tez-TezVerilənSuallar.md#top) <<< BURADAN BAŞLA DOSTUM
+
+* [<img width="18" src="https://i.ibb.co/vwSm056/soru-cevap.png" alt="Sual-Cavab" border="0"> Tez-Tez Verilən Suallar](/documents/Tez-TezVerilənSuallar.md#top) <<< BURADAN BAŞLA DOSTUM
