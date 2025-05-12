@@ -10,3 +10,5 @@ Bu repozitoriyanı həm öyrəndiklərimi möhkəmləndirmək, həm də mənim k
 > “Bölüşmək — öyrənməyin ən güclü yoludur.”
 
 Mənimlə əlaqə: [LinkedIn profilim](https://www.linkedin.com/in/hajiaga-sadikhov/)
+
+Bu repo, [LuNiZz/siber-guvenlik-sss](https://github.com/LuNiZz/siber-guvenlik-sss) reposundan ilham almışdır. İlham və mükəmməl işləri üçün böyük təşəkkürlər!
