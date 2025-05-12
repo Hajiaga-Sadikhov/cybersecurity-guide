@@ -1,5 +1,5 @@
 <a name="top"></a>
-<p align="center"><img src="https://ibb.co/mC99V53Y" alt="Tez-Tez Verilən Suallar" border="0"></p>
+<p align="center"><img src="https://i.ibb.co/cc59JP8P/Tez-tez-veril-n-suallar.png" alt="Tez-tez-veril-n-suallar" border="0"></p>
 
 ---
 <details> 
