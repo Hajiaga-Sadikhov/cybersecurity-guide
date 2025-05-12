@@ -49,7 +49,7 @@
 
 ---
 
-## ([▲](#top)) Kibertəhlükəsizlik öyrənməyə haradan başlamalıyam? <a name="question1"></a>
+## ([▲](#top)) Kiber təhlükəsizlik öyrənməyə haradan başlamalıyam? <a name="question1"></a>
 
 Hal-hazırda olduğun sayt, yuxarıdakı linklər, aşağıdakı mətnlər artıq necə irəliləyəcəyini sənə izah etmək üçün var.
 
