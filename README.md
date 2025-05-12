@@ -20,11 +20,10 @@ Aşağıda sinifləndirdiyim linklərin hər birində dolu-dolu resurslar var. B
 
 ##  Başlamadan Əvvəl Bir Sual Ver Özünə:
 
-> **“İngilis dilini kifayət qədər yaxşı bilirəm ?”**
+**“İngilis dilini kifayət qədər yaxşı bilirəm ?”**
 
 Bəli, bu resurslar sənə müəyyən qədər kömək edə bilər, amma **İngilis dili olmadan olmaz**...
-##  Qızıl Qayda:
->  **İngilis dili öyrən...** Bu sahədə yüksəlmək istəyirsənsə, bu addım qaçılmazdır.
+##  Qızıl Qayda: **İngilis dili öyrən...** Bu sahədə yüksəlmək istəyirsənsə, bu addım qaçılmazdır.
 ---
 
 
