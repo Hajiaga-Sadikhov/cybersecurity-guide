@@ -1,4 +1,5 @@
-# 👋 Salam, mən Hacıağa Sadıxov!
+# 👋 Salam, 
+mən Hacıağa Sadıxov!
 
 Mən 17 yaşında, kibertəhlükəsizlik sahəsinə böyük maraq göstərirəm. Hal-hazırda IT sahəsində təcrübəçi kimi çalışıram və Linux sistemləri üzrə qabaqcıl biliklərə malikəm. OWASP Top 10 kimi mövzulara fokuslanaraq daim öz üzərimdə işləyirəm. Hədəfim, gələcəkdə Security Architect olmaq və  böyük layihələrə imza atmaqdır.
 
