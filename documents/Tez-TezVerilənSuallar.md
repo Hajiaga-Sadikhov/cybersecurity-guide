@@ -103,7 +103,7 @@ Bir nəzər yetirməyini tövsiyə edirəm... dəyəri ölçülə bilməyəcək 
 ## ([▲](#top)) Proqramlaşdırma təcrübəm var, hansı kiber təhlükəsizlik sahəsini seçməliyəm? <a name="question7"></a>
 Ən sürətli həll çox güman ki, *OWASP* və bənzəri qurumlara baxaraq, Tətbiq Pentesterliyi və ya Təhlükəsizlik Tədqiqatçılığı olacaq. Bu, həm də tez bir zamanda pul qazanmağını təmin edər. BugCrowd və Hackerone-un təlim saytlarına daxil olub, bu şirkətlərin bug bounty proqramlarına qeydiyyatdan keçərək pul qazanmağa başlaya bilərsən.
 
-Bütün kibertəhlükəsizlik sahələri [burada](https://github.com/Hajiaga-Sadikhov/cybersecurity-guide/documents/kibertəhlükəsizlik.md#top) toplandı, bir bax...
+Bütün kibertəhlükəsizlik sahələri [burada](https://github.com/Hajiaga-Sadikhov/cybersecurity-guide/blob/main/documents/kibert%C9%99hl%C3%BCk%C9%99sizlik.md#top#top) toplandı, bir bax...
 <p>&nbsp;</p>
 
 ## ([▲](#top)) Qardaş, Udemy-də və ya başqa yerdə kurs tapmışam, bu necədir? <a name="question8"></a>
@@ -160,6 +160,9 @@ Bir də bu var: [Kontra'nın təlim saytı](https://application.security/free/ow
 Sylvester Stallone-un baş rolda oynadığı *Tulsa King* serialında, onun canlandırdığı Dwight Manfredi obrazının universitet təhsili ilə bağlı diqqətçəkən bir çıxışı var.
 
 > “Do you think anyone really gives a shit about what your major is? English literature, biology, whatever. The whole point of a college degree is to show a potential employer that you showed up someplace four years in a row, completed a series of tasks reasonably well, and on time. So if he hires you, there's a semi-decent chance that you'll show up there every day and not fuck his business up.”
+
+Tərcümə:
+
 > “Universitet diplomunun əsas mənası, potensial bir işverənə dörd il ərzində mütəmadi olaraq eyni yerə getdiyini, müəyyən tapşırıqları məqbul səviyyədə və vaxtında yerinə yetirdiyini sübut etməkdir. Beləliklə, əgər səni işə götürsə, bir ehtimal hər gün işə gələcəyinə və adamın işini batırmayacağına inana bilər.”
 
 <p>&nbsp;</p>
