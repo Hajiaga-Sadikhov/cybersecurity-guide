@@ -169,8 +169,8 @@ Tərcümə:
 
 
 ## ([▲](#top)) X elmləri, Y mühəndisliyi, Z texnologiyaları və ya kibertəhlükəsizlik ixtisası? Bu sahələrindən hansını seçsəm, gələcəkdə “kiber mütəxəssis” ola bilərəm? <a name="question13"></a>
-E) Hərbiri 
-Məsələ səninlə bağlıdır, dostum — özünü necə inkişaf etdirib, necə dəyər qatırsansa, elə o şəkildə irəliləyirsən.
+E) Hərbiri: 
+> Məsələ səninlə bağlıdır, dostum — özünü necə inkişaf etdirib, necə dəyər qatırsansa, elə o şəkildə irəliləyirsən.
 <p>&nbsp;</p>
 
 ## ([▲](#top)) Təlimlərimi başa vurdum, bu repodakı resursları tamamilə öyrəndim, artıq hər cür Penetrasiya Testi, Web App Testi, Kibertəhlükəsizlik mövzularında mükəmməl olduğumu düşünürəm. Bəs indi nə etməliyəm? <a name="question14"></a>
