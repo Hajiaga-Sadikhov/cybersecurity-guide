@@ -420,4 +420,4 @@ LLM əsaslı tətbiq inkişaf etdirmək üçün: əsas anlayışları (embedding
 
 <p>&nbsp;</p>
 
-[← Ana Sayfaya Dön](https://github.com/Hajiaga-Sadikhov/cybersecurity-guide)
+[← Ana Səyfəyə Dön](https://github.com/Hajiaga-Sadikhov/cybersecurity-guide)
