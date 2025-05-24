@@ -28,3 +28,4 @@ Bəli, bu resurslar sənə müəyyən qədər kömək edə bilər, amma **İngil
 <h1 align="center">Table of Contents:</h1>
 
 * [<img width="18" src="https://i.ibb.co/vwSm056/soru-cevap.png" alt="Sual-Cavab" border="0"> Tez-Tez Verilən Suallar](/documents/Tez-TezVerilənSuallar.md#top) <<< BURADAN BAŞLA DOSTUM
+* [Proqramlaşdırmaya Yeni Başlayanlar](https://github.com/Hajiaga-Sadikhov/cybersecurity-guide/blob/main/documents/development.md)
